@@ -1,0 +1,15 @@
+/* App.css */
+
+.appContainer {
+  text-align: center;
+  padding: 20px;
+}
+
+.heading {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.mainContent {
+  margin-top: 20px;
+}
